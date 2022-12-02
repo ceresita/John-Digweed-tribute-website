@@ -1,2 +1,2 @@
 # Tribute-website-project
-Website made with HTML5 and CSS3
+Website made with HTML5 and CSS3.
