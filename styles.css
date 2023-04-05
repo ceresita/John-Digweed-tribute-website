@@ -276,6 +276,14 @@ section {
 
 /* ----- Fotos ----- */
 
+.fotos {
+  background-image: url(imagenes/fondo-negro-2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .titulo-fotos {
   display: flex;
   justify-content: center;
@@ -295,11 +303,6 @@ section {
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 1%;
   padding: 3%;
-  background-image: url(imagenes/fondo-negro-2.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   width: 100%;
   height: 100vh;
 }
